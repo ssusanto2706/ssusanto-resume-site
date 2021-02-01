@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ssusanto-resume-site/static/css/main.0e3a025a.chunk.css",
-    "main.js": "/ssusanto-resume-site/static/js/main.1e14f1aa.chunk.js",
-    "main.js.map": "/ssusanto-resume-site/static/js/main.1e14f1aa.chunk.js.map",
+    "main.js": "/ssusanto-resume-site/static/js/main.1e8726c0.chunk.js",
+    "main.js.map": "/ssusanto-resume-site/static/js/main.1e8726c0.chunk.js.map",
     "runtime-main.js": "/ssusanto-resume-site/static/js/runtime-main.08844d18.js",
     "runtime-main.js.map": "/ssusanto-resume-site/static/js/runtime-main.08844d18.js.map",
     "static/js/2.00af6a3d.chunk.js": "/ssusanto-resume-site/static/js/2.00af6a3d.chunk.js",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.08844d18.js",
     "static/js/3.215043dd.chunk.js",
     "static/css/main.0e3a025a.chunk.css",
-    "static/js/main.1e14f1aa.chunk.js"
+    "static/js/main.1e8726c0.chunk.js"
   ]
 }
