@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import Activity from './Experience/Activity';
 
 const Activities = ({ data }) => (
-  <div className="Activities">
+  <div className="activities">
     <div className="link-to" id="activities" />
     <div className="title">
       <h3>Activities</h3>
