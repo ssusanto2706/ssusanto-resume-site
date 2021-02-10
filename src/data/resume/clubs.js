@@ -2,23 +2,23 @@ const clubs = [
   {
     company: 'English-In-Action',
     position: 'Volunteer Conversation Leader',
-    link: 'https://rantai.tech/',
+    link: 'https://ispo.ucsd.edu/programs-workshops/programs-events/english-in-action.html',
     daterange: 'November 2019 - Present',
     points: [
-      'Reduced server load of the chat feature by 3% by creating a more efficient Multimedia Messaging System which compresses sent image until downloaded without sacrificing image quality from scratch using Java and Picasso',
-      'Improved user experience on tablets by maximizing the larger screen to implement a more aesthetically pleasing UI and optimized layout to change based on orientation preventing a stretched UI look',
-      'Enabled multi language support for the app by providing human translations for English and Indonesian and switch to machine translation for other language to allow the app to reach a global market',
+      'Aided other international students to improve their English-speaking skills or vocabulary significantly', 
+      'Improved the confidence of students for job interviews by letting them practice interviews before career fairs', 
+      'Assisted in the adapting of culture by relating with personal experience and suggesting clubs',
     ],
   },
   {
     company: 'Deejays and Vinylphiles Club',
     position: 'Marketing Co-Head',
-    link: '',
+    link: 'https://www.facebook.com/dvcucsd/',
     daterange: 'September 2018 - September 2019',
     points: [
-      'Developed financial module for supply chain application using Selenium and MySQL Consists of automated payment checking through e-banking and updating database which reduces human error',
-      'Created the customer service instant messaging software for the client to report issues immediately using Jetty',
-      'Implemented a basic UI made with JavaFX to make it look more appealing for clients which displays order details, pending or completed, in table format and user-friendly as it only requires a single button to run',
+      'Researched optimal times to post and promote dance parties on social media for maximum attendance',
+      'Reached out to several college newsletter and resident assistants to increase visibility',
+      'Successfully attracted interest of 415 people, 105% increase in interest (last year 202 interested), in attending Baewatch 2019, a Valentine’s Day event and largest event hosted by DVC annually',
     ],
   },
 ];
