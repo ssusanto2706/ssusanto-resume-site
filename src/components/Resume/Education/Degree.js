@@ -5,7 +5,7 @@ const Degree = ({ data }) => (
   <article className="degree-container">
     <header>
       {data.degree.map((d) => (<h4 className="degree">{d}</h4>))}
-      <p className="school"><a href={data.link}>{data.school}</a>, {data.year}</p>
+      <p className="school"><a href={data.link} target="_blank" rel="noreferrer">{data.school}</a>, {data.year}</p>
     </header>
   </article>
 );
