@@ -1,5 +1,5 @@
 import React from 'react';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
@@ -32,7 +32,7 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><a href={`${process.env.PUBLIC_URL}/resume.pdf`}>RESUME</a></h2>
+          <h2 data-testid="heading"><Link href={`${process.env.PUBLIC_URL}/resume.pdf`}>RESUME</Link></h2>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
