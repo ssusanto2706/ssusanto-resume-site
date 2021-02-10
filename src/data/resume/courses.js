@@ -1,14 +1,14 @@
 const courses = [
   {
-    title: 'Convex Optimization',
-    number: 'EE 364a',
-    link: 'http://stanford.edu/class/ee364a/',
-    university: 'Stanford',
+    title: 'Object Oriented Programming',
+    number: 'CSE 11',
+    link: 'https://sites.google.com/eng.ucsd.edu/cse11-winter-2019',
+    university: 'UCSD',
   },
   {
     title: 'Machine Learning',
     number: 'CS 229',
-    link: 'http://cs229.stanford.edu/',
+    link: '',
     university: 'Stanford',
   },
   {
