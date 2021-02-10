@@ -5,8 +5,8 @@ const clubs = [
     link: 'https://ispo.ucsd.edu/programs-workshops/programs-events/english-in-action.html',
     daterange: 'November 2019 - Present',
     points: [
-      'Aided other international students to improve their English-speaking skills or vocabulary significantly', 
-      'Improved the confidence of students for job interviews by letting them practice interviews before career fairs', 
+      'Aided other international students to improve their English-speaking skills or vocabulary significantly',
+      'Improved the confidence of students for job interviews by letting them practice interviews before career fairs',
       'Assisted in the adapting of culture by relating with personal experience and suggesting clubs',
     ],
   },
