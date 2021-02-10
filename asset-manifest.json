@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/ssusanto-resume-site/static/css/main.d8d44569.chunk.css",
-    "main.js": "/ssusanto-resume-site/static/js/main.6a5357bd.chunk.js",
-    "main.js.map": "/ssusanto-resume-site/static/js/main.6a5357bd.chunk.js.map",
-    "runtime-main.js": "/ssusanto-resume-site/static/js/runtime-main.c136d368.js",
-    "runtime-main.js.map": "/ssusanto-resume-site/static/js/runtime-main.c136d368.js.map",
+    "main.js": "/ssusanto-resume-site/static/js/main.b38fee15.chunk.js",
+    "main.js.map": "/ssusanto-resume-site/static/js/main.b38fee15.chunk.js.map",
+    "runtime-main.js": "/ssusanto-resume-site/static/js/runtime-main.48bba165.js",
+    "runtime-main.js.map": "/ssusanto-resume-site/static/js/runtime-main.48bba165.js.map",
     "static/js/2.00af6a3d.chunk.js": "/ssusanto-resume-site/static/js/2.00af6a3d.chunk.js",
     "static/js/2.00af6a3d.chunk.js.map": "/ssusanto-resume-site/static/js/2.00af6a3d.chunk.js.map",
     "static/js/3.215043dd.chunk.js": "/ssusanto-resume-site/static/js/3.215043dd.chunk.js",
@@ -13,8 +13,8 @@
     "static/js/4.3785e52b.chunk.js.map": "/ssusanto-resume-site/static/js/4.3785e52b.chunk.js.map",
     "static/js/5.296bbf22.chunk.js": "/ssusanto-resume-site/static/js/5.296bbf22.chunk.js",
     "static/js/5.296bbf22.chunk.js.map": "/ssusanto-resume-site/static/js/5.296bbf22.chunk.js.map",
-    "static/js/6.fdb3fbc4.chunk.js": "/ssusanto-resume-site/static/js/6.fdb3fbc4.chunk.js",
-    "static/js/6.fdb3fbc4.chunk.js.map": "/ssusanto-resume-site/static/js/6.fdb3fbc4.chunk.js.map",
+    "static/js/6.916c031c.chunk.js": "/ssusanto-resume-site/static/js/6.916c031c.chunk.js",
+    "static/js/6.916c031c.chunk.js.map": "/ssusanto-resume-site/static/js/6.916c031c.chunk.js.map",
     "static/js/7.d2645329.chunk.js": "/ssusanto-resume-site/static/js/7.d2645329.chunk.js",
     "static/js/7.d2645329.chunk.js.map": "/ssusanto-resume-site/static/js/7.d2645329.chunk.js.map",
     "static/js/8.eee852ed.chunk.js": "/ssusanto-resume-site/static/js/8.eee852ed.chunk.js",
@@ -33,9 +33,9 @@
     "static/js/3.215043dd.chunk.js.LICENSE.txt": "/ssusanto-resume-site/static/js/3.215043dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c136d368.js",
+    "static/js/runtime-main.48bba165.js",
     "static/js/3.215043dd.chunk.js",
     "static/css/main.d8d44569.chunk.css",
-    "static/js/main.6a5357bd.chunk.js"
+    "static/js/main.b38fee15.chunk.js"
   ]
 }
