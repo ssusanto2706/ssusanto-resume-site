@@ -34,7 +34,6 @@ Courses.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
     number: PropTypes.string,
-    link: PropTypes.string,
     university: PropTypes.string,
   })),
 };
