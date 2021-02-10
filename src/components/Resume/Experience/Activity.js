@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Activity = ({ data }) => (
-  <article className="jobs-container">
+  <article className="activities-container">
     <header>
       <h4><a href={data.link}>{data.company}</a> - {data.position}</h4>
       <p className="daterange"> {data.daterange}</p>

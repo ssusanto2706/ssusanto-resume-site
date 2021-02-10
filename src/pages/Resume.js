@@ -7,6 +7,7 @@ import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
+import Activities from '../components/Resume/Activities';
 
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';

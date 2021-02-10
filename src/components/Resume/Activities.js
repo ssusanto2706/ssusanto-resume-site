@@ -11,8 +11,8 @@ const Activities = ({ data }) => (
     </div>
     {data.map((activity) => (
       <Activity
-        data={clubs}
-        key={clubs.company}
+        data={activity}
+        key={activity.company}
       />
     ))}
   </div>
@@ -32,4 +32,4 @@ Activities.defaultProps = {
   data: [],
 };
 
-export default Experience;
+export default Activities;
