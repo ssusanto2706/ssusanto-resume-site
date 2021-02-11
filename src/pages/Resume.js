@@ -32,12 +32,13 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading">            
+          <h2 data-testid="heading">
             <Link
               to="route"
               onClick={(event) => { event.preventDefault(); window.open(`${process.env.PUBLIC_URL}/resume.pdf`); }}
             >RESUME
-            </Link></h2>
+            </Link>
+          </h2>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
