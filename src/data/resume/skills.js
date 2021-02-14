@@ -28,7 +28,7 @@ const skills = [
     category: ['Programming Languanges'],
   },
   {
-    title: 'C',
+    title: 'C#',
     competency: 2,
     category: ['Programming Languanges'],
   },
@@ -63,14 +63,19 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Intellij',
+    title: 'IntelliJ IDEA',
     competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'VS Code',
+    competency: 5,
     category: ['Tools'],
   },
   {
     title: 'Jetty',
     competency: 4,
-    category: ['Tools'],
+    category: ['Java'],
   },
   {
     title: 'Git',
@@ -80,12 +85,12 @@ const skills = [
   {
     title: 'Selenium',
     competency: 4,
-    category: ['Tools'],
+    category: ['Java'],
   },
   {
     title: 'Gson',
     competency: 3,
-    category: ['Tools'],
+    category: ['Java'],
   },
   {
     title: 'Numpy',
@@ -142,8 +147,13 @@ const skills = [
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
+  '#345995',
+  '#C81D25',
+  '#96BBBB',
+  '#FFD400',
+  '#E28413',
   '#f2f6d0',
-  "#d0e1d4",
+  '#d0e1d4',
   '#d9d2b6',
   '#e4be9e',
   '#71697a',
