@@ -99,7 +99,7 @@ const skills = [
   },
   {
     title: 'Tensorflow',
-    competency: 4,
+    competency: 3,
     category: ['Python'],
   },
   {
@@ -142,6 +142,11 @@ const skills = [
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
+  '#f2f6d0',
+  "#d0e1d4",
+  '#d9d2b6',
+  '#e4be9e',
+  '#71697a',
   '#6968b3',
   '#37b1f5',
   '#40494e',
