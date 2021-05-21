@@ -13,7 +13,7 @@ const positions = [
   {
     company: 'Cyberindo Sinergy Sistem',
     position: 'Junior Java Programmer Intern',
-    link: '',
+    link: 'https://cyberindo-sinergi.com',
     daterange: 'July 2019 - September 2019',
     points: [
       'Developed financial module for supply chain application using Selenium and MySQL Consists of automated payment checking through e-banking and updating database which reduces human error',

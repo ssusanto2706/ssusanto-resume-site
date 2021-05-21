@@ -8,6 +8,8 @@ const Activities = ({ data }) => (
     <div className="link-to" id="activities" />
     <div className="title">
       <h3>Activities</h3>
+      <p> Here&apos;s some extracurricular activities I care about.
+      </p>
     </div>
     {data.map((activity) => (
       <Activity

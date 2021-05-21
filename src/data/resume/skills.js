@@ -147,27 +147,16 @@ const skills = [
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#345995',
-  '#C81D25',
-  '#96BBBB',
-  '#FFD400',
-  '#E28413',
-  '#f2f6d0',
-  '#d0e1d4',
-  '#d9d2b6',
-  '#e4be9e',
-  '#71697a',
-  '#6968b3',
-  '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
-  '#c3423f',
-  '#d75858',
-  '#747fff',
-  '#64cb7b',
+  '#173f5f',
+  '#20639b',
+  '#3caea3',
+  '#f6d55c',
+  '#ed553b',
+  '#6781a6',
+  '#76da9e',
+  '#82d8e9',
+  '#bdd7d8',
+  '#ffffff',
 ];
 
 const categories = [

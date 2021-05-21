@@ -11,9 +11,9 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
-          <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+          <p>Hi, I am currently a third year UCSD student double majoring in Cognitive Science
+            Specializing in Machine Learning and Neural Computation &amp;
+            International Studies - International Business.
           </p>
         </div>
       </header>
