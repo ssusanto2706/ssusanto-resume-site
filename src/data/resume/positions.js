@@ -1,7 +1,18 @@
 const positions = [
   {
+    company: 'noDokter',
+    position: 'Web Developer Intern ',
+    link: 'https://www.nodokter.com/',
+    daterange: 'March 2021 - Present',
+    points: [
+      'Ensured multiple device type compatibility for all web solutions using HTML and CSS and perform any necessary QA on finished products',
+      'Resolved bugs and implemented new site designs from Figma which improves overall functionality and user experience',
+      'Integrated multi-language support using PHP for user generated content and forum page',
+    ],
+  },
+  {
     company: 'Rantai',
-    position: 'Front End Developer Intern ',
+    position: 'FUll Stack Developer Intern ',
     link: 'https://rantai.tech/',
     daterange: 'July 2020 - October 2020',
     points: [

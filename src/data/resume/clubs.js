@@ -1,5 +1,26 @@
 const clubs = [
   {
+    company: 'ACM at UCSD',
+    position: 'Finance Funding Manager',
+    link: 'https://acmucsd.com/',
+    daterange: 'May 2021 - Present',
+    points: [
+      'Work closely with Associated Students to receive funding for events',
+      'Ensure everyone meets the submission deadlines for budget proposals',
+    ],
+  },
+  {
+    company: 'ACM Dimensions',
+    position: 'Finance Associate',
+    link: 'https://studentorg.ucsd.edu/Home/Details/14070',
+    daterange: 'August 2020 - Present',
+    points: [
+      'ACM Dimensions is an upcoming annual collegiate technology conference that is going to be held at UC San Diego.',
+      'Drafted a budget proposal template',
+      'Managed external suppliers for merch',
+    ],
+  },
+  {
     company: 'English-In-Action',
     position: 'Volunteer Conversation Leader',
     link: 'https://ispo.ucsd.edu/programs-workshops/programs-events/english-in-action.html',

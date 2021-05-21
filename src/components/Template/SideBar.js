@@ -20,8 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Samantha. I prefer to go by Sam. My preferred pronouns are they/them.
-        I am a student at UCSD pursuing degrees in both <a href="https://cogsci.ucsd.edu/">Cognitive Science </a> and
-        <a href="https://isp.ucsd.edu/"> International Business </a>.
+        I am a student at UCSD pursuing a degree in <a href="https://cogsci.ucsd.edu/">Cognitive Science </a> minoring in
+        Computer Science and Business.
       </p>
       <ul className="actions">
         <li>
