@@ -12,7 +12,8 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
           <p>Hi, I am currently a third year UCSD student majoring in Cognitive Science
-            Specializing in Machine Learning and Neural Computation &amp; minoring in both Computer Science and Business.
+            Specializing in Machine Learning and Neural Computation &amp;
+            minoring in both Computer Science and Business.
           </p>
         </div>
       </header>
